@@ -1,2 +1,1 @@
-# finance
-python programming, financeops
+# Finance Analytics
